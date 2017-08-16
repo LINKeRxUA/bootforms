@@ -5,3 +5,4 @@ To Do
 - HTML5 elements like email and date
 
 - Horizontal inline checkbox/radio
+- input[type="number"]
